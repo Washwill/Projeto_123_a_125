@@ -1,0 +1,15 @@
+title{
+box-shadow: 20;
+}
+
+.rodape {
+    position: fixed;
+    color: rgb(3, 190, 0);
+    background-color: cyan; 
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    line-height: 4;
+    font-size: 17px;
+    
+ }
